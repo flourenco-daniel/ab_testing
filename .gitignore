@@ -1,5 +1,5 @@
-abtest\data\raw\clientes.csv
-abtest\data\raw\itens_pedido.csv
-abtest\data\raw\pedidos.csv
-abtest\data\raw\produtos.csv
+abtest/data/raw/clientes.csv
+abtest/data/raw/itens_pedido.csv
+abtest/data/raw/pedidos.csv
+abtest/data/raw/produtos.csv
 README.md
