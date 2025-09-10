@@ -1,2 +1,5 @@
-data/raw
+clientes.csv
+itens_pedido.csv
+pedidos.csv
+produtos.csv
 README.md
